@@ -11,7 +11,6 @@ date: "2021-06-23"
 ## 1. Github repository 생성
 {gitID}.github.io 로 Repository name을 작성 후 생성한다.
 
-<img src="/post-images/Gitblog-01.png" width="40%" height="30%" title="Gitblog-01" alt="Gitblog-01"></img>
 <br><br>
 
 
@@ -51,7 +50,7 @@ export PATH={$Home}/.rbenv/bin:$PATH && \
 eval "$(rbenv init -)"
 ```
 
-<img src="/post-images/Gitblog-02.png" width="40%" height="30%" title="Gitblog-02" alt="Gitblog-02"></img>
+<img src="./post-images/gitblog-01.png" width="100%" height="100%" title="Gitblog-01" alt="Gitblog-01"></img>
 
 <br>
 
