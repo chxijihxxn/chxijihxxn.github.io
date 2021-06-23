@@ -50,7 +50,7 @@ export PATH={$Home}/.rbenv/bin:$PATH && \
 eval "$(rbenv init -)"
 ```
 
-<img src="./post-images/gitblog-01.png" width="100%" height="100%" title="Gitblog-01" alt="Gitblog-01"></img>
+![gitblog-01](https://github.com/chxijihxxn/chxijihxxn.github.io/blob/main/_posts/post-images/gitblog-01.png?raw=true)
 
 <br>
 
