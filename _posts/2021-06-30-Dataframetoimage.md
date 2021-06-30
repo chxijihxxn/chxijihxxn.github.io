@@ -10,6 +10,8 @@ date: "2021-06-30"
 
 포스트의 내용 및 코드는 코랩(Colab) 환경을 기준으로 작성하였음.
 
+
+[Colab Full code](https://colab.research.google.com/drive/17lC2LbUbjuasV7AKdtdZhaqyYa6w8c_U?usp=sharing)
 <br><br>
 
 # 1. 공통부분
